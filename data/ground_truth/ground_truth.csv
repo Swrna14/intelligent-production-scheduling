@@ -1,0 +1,6 @@
+issue_type,ground_truth_label,affected_entity_id,expected_result
+machine_operation_overlap,negative_case_machine_overlap,PROD-2026-000001,Flag overlap between machine assignments on the same time window.
+routing_precedence_violation,negative_case_routing_precedence,SCH-000001-01,Reject schedule when operation sequence violates routing precedence.
+material_consumed_before_availability,negative_case_material_availability,1,Block start when required material is not yet available.
+operation_scheduled_outside_shift_calendar,negative_case_shift_calendar,MACH-001,Reject schedules outside permitted shift hours.
+missing_changeover_time,negative_case_changeover,MACH-002,Require the minimum changeover duration before next job starts.

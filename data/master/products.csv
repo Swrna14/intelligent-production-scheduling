@@ -1,0 +1,21 @@
+product_id,product_code,sku,product_name,product_family,standard_cost,lead_time_days,active
+1,PROD-2026-000001,SKU-000001,Mechanical Item 001,Mechanical,228.44,12,True
+2,PROD-2026-000002,SKU-000002,Electrical Item 002,Electrical,101.97,4,True
+3,PROD-2026-000003,SKU-000003,Assembly Item 003,Assembly,247.87,7,True
+4,PROD-2026-000004,SKU-000004,Packaging Item 004,Packaging,333.96,11,True
+5,PROD-2026-000005,SKU-000005,Coating Item 005,Coating,228.27,5,True
+6,PROD-2026-000006,SKU-000006,Machining Item 006,Machining,348.73,10,True
+7,PROD-2026-000007,SKU-000007,Mechanical Item 007,Mechanical,771.32,10,True
+8,PROD-2026-000008,SKU-000008,Electrical Item 008,Electrical,512.75,9,True
+9,PROD-2026-000009,SKU-000009,Assembly Item 009,Assembly,241.04,11,True
+10,PROD-2026-000010,SKU-000010,Packaging Item 010,Packaging,414.74,6,True
+11,PROD-2026-000011,SKU-000011,Coating Item 011,Coating,805.09,7,True
+12,PROD-2026-000012,SKU-000012,Machining Item 012,Machining,158.73,10,True
+13,PROD-2026-000013,SKU-000013,Mechanical Item 013,Mechanical,346.84,6,True
+14,PROD-2026-000014,SKU-000014,Electrical Item 014,Electrical,767.93,5,True
+15,PROD-2026-000015,SKU-000015,Assembly Item 015,Assembly,991.38,7,True
+16,PROD-2026-000016,SKU-000016,Packaging Item 016,Packaging,664.17,7,True
+17,PROD-2026-000017,SKU-000017,Coating Item 017,Coating,451.31,7,True
+18,PROD-2026-000018,SKU-000018,Machining Item 018,Machining,936.28,10,True
+19,PROD-2026-000019,SKU-000019,Mechanical Item 019,Mechanical,181.41,8,True
+20,PROD-2026-000020,SKU-000020,Electrical Item 020,Electrical,222.46,10,True

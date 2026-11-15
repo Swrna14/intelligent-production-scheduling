@@ -1,0 +1,9 @@
+machine_id,machine_code,machine_name,machine_type,capacity_per_shift,status,location,base_rate
+1,MACH-001,Machine 001,CNC,2,available,Cell-2,974.85
+2,MACH-002,Machine 002,Assembly,1,available,Cell-3,679.3
+3,MACH-003,Machine 003,CNC,3,available,Cell-4,370.22
+4,MACH-004,Machine 004,Assembly,1,available,Cell-5,399.23
+5,MACH-005,Machine 005,CNC,2,available,Cell-1,532.7
+6,MACH-006,Machine 006,Assembly,2,available,Cell-2,897.75
+7,MACH-007,Machine 007,CNC,3,available,Cell-3,758.8
+8,MACH-008,Machine 008,Assembly,1,available,Cell-4,1142.14

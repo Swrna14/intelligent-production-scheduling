@@ -1,0 +1,34 @@
+{
+  "anomalies": [
+    {
+      "issue_type": "machine_operation_overlap",
+      "ground_truth_label": "negative_case_machine_overlap",
+      "affected_entity_id": "PROD-2026-000001",
+      "expected_result": "Flag overlap between machine assignments on the same time window."
+    },
+    {
+      "issue_type": "routing_precedence_violation",
+      "ground_truth_label": "negative_case_routing_precedence",
+      "affected_entity_id": "SCH-000001-01",
+      "expected_result": "Reject schedule when operation sequence violates routing precedence."
+    },
+    {
+      "issue_type": "material_consumed_before_availability",
+      "ground_truth_label": "negative_case_material_availability",
+      "affected_entity_id": "1",
+      "expected_result": "Block start when required material is not yet available."
+    },
+    {
+      "issue_type": "operation_scheduled_outside_shift_calendar",
+      "ground_truth_label": "negative_case_shift_calendar",
+      "affected_entity_id": "MACH-001",
+      "expected_result": "Reject schedules outside permitted shift hours."
+    },
+    {
+      "issue_type": "missing_changeover_time",
+      "ground_truth_label": "negative_case_changeover",
+      "affected_entity_id": "MACH-002",
+      "expected_result": "Require the minimum changeover duration before next job starts."
+    }
+  ]
+}

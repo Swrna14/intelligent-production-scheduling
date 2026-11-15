@@ -1,0 +1,7 @@
+tooling_id,tooling_code,tool_name,available_capacity,location,effective_from
+1,TOOL-001,Tool 1,2,Area-2,2026-01-01
+2,TOOL-002,Tool 2,1,Area-3,2026-01-01
+3,TOOL-003,Tool 3,2,Area-4,2026-01-01
+4,TOOL-004,Tool 4,1,Area-5,2026-01-01
+5,TOOL-005,Tool 5,2,Area-1,2026-01-01
+6,TOOL-006,Tool 6,1,Area-2,2026-01-01
